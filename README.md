@@ -2,6 +2,15 @@
 
 This repo is for the data analysis that tries to answer, which neighborhood (of the 102) in the Twin Cities of Minneapolis-St. Paul is the most quintessential 'Minnesota Nice'?
 
+In this repo there are:
+
+1. A Jupyter notebook containing a description of the business problem.
+2. A Jupyter notebook containing the data sources as well as analyses.
+3. A quick report turned around from the analyses.
+4. A brief presentation of the analyses.
+
+Below is a brief summary of the project:
+
 Data was collected from multiple sources, including the Google geocoding API, Foursquare API, Walkscore API, the 2010 Census, and the 2013 American Community Survey.
 
 The analysis creates a 'Minnesota Nice' score that is dependent on a variety of metrics pulled from the Census and American Community Survey, and synthesized from Foursquare data. This then is used to report out a 'top ten' list for Twin City neighborhoods.
